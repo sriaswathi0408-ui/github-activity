@@ -1,0 +1,4 @@
+Name: Sri Aswathi
+Department: B.Tech - Information Technology 
+Year: 1st Year
+This is my first GitHub repository.
